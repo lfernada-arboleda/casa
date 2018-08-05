@@ -16,8 +16,8 @@ public class Luisa {
      */
     public static void main(String[] args) {
         int c = 100000 ;
-        int rultado = c+c;
-        System.out.println(rultado);
+        int rltado = c+c;
+        System.out.println(rltado);
         
     }
     
